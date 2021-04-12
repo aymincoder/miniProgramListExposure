@@ -1,0 +1,3 @@
+<view class="block" wx:for="{{total}}" wx:key="{{index}}" data-key="{{index+1}}" data-info="{{item}}">
+  {{item.name}}
+</view>

@@ -1,0 +1,9 @@
+.block {
+  width: 90%;
+  margin: 20rpx auto;
+  display: block;
+  height: 300rpx;
+  line-height: 300rpx;
+  border: 2rpx solid #ccc;
+  text-align: center;
+}
